@@ -1,6 +1,6 @@
 # Modelagem de Processos de Estoque
 
-Este repositório contém a modelagem dos principais processos de negócio de um Gerenciamento de Estoque, desenvolvida com base nas boas práticas de **BPM**.
+Este repositório contém a modelagem dos principais processos de negócio de um **Gerenciamento de Estoque**, desenvolvida com base nas boas práticas de **BPM**.
 
 ## Objetivo
 
